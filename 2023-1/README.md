@@ -2,6 +2,16 @@
 Jul-Dec 2023
 
 
+## course
++ `FI1101-04` `4-2.0` `J`
++ `FI1101-09` `4-2.0` `J`
++ `FI4002-01` `3-3.0` `G`
++ `NT6094-01` `2-1.0` `G`
++ `NT8098-01` `3-1.5` `G`
++ `RN6068-01` `3-1.0` `G`
++ `SK6091-01` `3-1.0` `G`
+
+
 ## defense
 + `27-jul 1300` [`CvMHegGv3sH`](https://www.instagram.com/p/CvMHegGv3sH/) [`4ezg2`](https://osf.io/4ezg2/) `10219028` Rahmi Puti Cahyani
 + `27-jul 1200` [`CvMEawpvs43`](https://www.instagram.com/p/CvMEawpvs43/) [`y5gef`](https://osf.io/y5gef/) `10219063` Tiara Andrina Pratista
