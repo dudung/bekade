@@ -21,5 +21,7 @@ Jul-Dec 2023
 + `11-jul 0900` [`CuimIPavZZ6`](https://www.instagram.com/p/CuimIPavZZ6/) [`7vwe3`](https://osf.io/7vwe3/) `10219020` Jonathan Adriel &bull;
 + `10-jul 1330` [`CuhVfHQvdst`](https://www.instagram.com/p/CuhVfHQvdst/) [`yfnsh`](https://osf.io/yfnsh/) `20920007` Alya Mutiara Firdausy &bull;
 + `03-jul 1300` [`CuQ-ejDv3FD`](https://www.instagram.com/p/CuQ-ejDv3FD/) [`3yz6m`](https://osf.io/3yz6m/) `11418024`
-Haydar Alfan Nur &bull;
+Haydar Alfan Nur &#x25E6;
 + `02-jul 0900` [`CuT8Z68vlKd`](https://www.instagram.com/p/CuT8Z68vlKd/) [`8ehq2`](https://osf.io/8ehq2/) `10219084` Avima Haamesha &middot;
+
+Note: &bull; supv, &#x25E6; co-supv, &middot; co-auth
