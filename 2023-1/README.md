@@ -25,3 +25,7 @@ Haydar Alfan Nur &#x25E6;
 + `02-jul 0900` [`CuT8Z68vlKd`](https://www.instagram.com/p/CuT8Z68vlKd/) [`8ehq2`](https://osf.io/8ehq2/) `10219084` Avima Haamesha &middot;
 
 Note: &bull; supv, &#x25E6; co-supv, &middot; co-auth
+
+
+## intelectual property
++ `21-jul-2023` `EC00202357562` [`eausk`](https://osf.io/eausk) Charge And Discharge Of Capasitors: Revisiting The Analogy With Water In Connected Containers
