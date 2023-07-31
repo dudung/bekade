@@ -14,6 +14,7 @@ Jul-Dec 2023
 
 ## defense
 + `01-aug 1530` [`•••••••••••`]() [`g7qau`](https://osf.io/g7qau/) `10219096` Dharma Prasetya Permana
++ `01-aug 1300` [`•••••••••••`]() [`krbcj`](https://osf.io/krbcj/) `10217055` Hakim Al Ghifari
 + `31-jul 1300` [`CvWe5rqv9sm`](https://www.instagram.com/p/CvWe5rqv9sm/) [`qpu2c`](https://osf.io/qpu2c/) `10219016` Diana Ibrahim
 + `31-jul 1000` [`CvWKJMFvnvD`](https://www.instagram.com/p/CvWKJMFvnvD/) [`9b8da`](https://osf.io/9b8da/) `10220010` Fajris Zahrotun Nihayah
 + `31-jul 0800` [`CvV80B_vERg`](https://www.instagram.com/p/CvV80B_vERg/) [`qpu2c`](https://osf.io/qpu2c/) `10219016` Diana Ibrahim
