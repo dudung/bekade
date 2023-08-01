@@ -11,6 +11,14 @@ Jul-Dec 2023
 + `RN6068-01` `3-1.0` `G`
 + `SK6091-01` `3-1.0` `G`
 
+![](courses.png)
+
+
+### to-defense
++ `08-tue 1000` `10218101` Khalda Alifia
++ `08-tue 0800` `10219034` Clarisa Andrienny Natasya
++ `07-mon 1530` `20220011` Deni Ramdani
++ `04-fri 0900` `20920007` Alya Mutiara Firdausyi &bull;
 
 ## defense
 + `01-aug 1530` [`•••••••••••`]() [`g7qau`](https://osf.io/g7qau/) `10219096` Dharma Prasetya Permana
