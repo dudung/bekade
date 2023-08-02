@@ -15,7 +15,7 @@ Jul-Dec 2023
 
 
 ### to-defense
-+ `08-tue 1000` `10218101` Khalda Alifia
++ `08-tue 1000` []() [`ngyuq`](https://osf.io/ngyuq/) `10218101` Khalda Alifia
 + `08-tue 0800` `10219034` Clarisa Andrienny Natasya
 + `07-mon 1530` `20220011` Deni Ramdani
 + `04-fri 0900` `20920007` Alya Mutiara Firdausyi &bull;
