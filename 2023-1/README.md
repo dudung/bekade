@@ -21,9 +21,9 @@ Jul-Dec 2023
 + `04-fri 0900` `20920007` Alya Mutiara Firdausyi &bull;
 
 ## defense
-+ `01-aug 1530` [`•••••••••••`]() [`g7qau`](https://osf.io/g7qau/) `10219096` Dharma Prasetya Permana
-+ `01-aug 1300` [`•••••••••••`]() [`krbcj`](https://osf.io/krbcj/) `10217055` Hakim Al Ghifari
-+ `01-aug 0830` [`•••••••••••`]() [`tbz9p`](https://osf.io/tbz9p/) `30218002` Dinan Adiwijayakusuma
++ `01-aug 1530` [`CvZUxR3PgB9`](https://www.instagram.com/p/CvZUxR3PgB9/) [`g7qau`](https://osf.io/g7qau/) `10219096` Dharma Prasetya Permana
++ `01-aug 1300` [`CvZDJAIvK6J`](https://www.instagram.com/p/CvZDJAIvK6J/) [`krbcj`](https://osf.io/krbcj/) `10217055` Hakim Al Ghifari
++ `01-aug 0830` [`CvYojoGPr5V`](https://www.instagram.com/p/CvYojoGPr5V/) [`tbz9p`](https://osf.io/tbz9p/) `30218002` Dinan Adiwijayakusuma
 + `31-jul 1300` [`CvWe5rqv9sm`](https://www.instagram.com/p/CvWe5rqv9sm/) [`qpu2c`](https://osf.io/qpu2c/) `10219016` Diana Ibrahim
 + `31-jul 1000` [`CvWKJMFvnvD`](https://www.instagram.com/p/CvWKJMFvnvD/) [`9b8da`](https://osf.io/9b8da/) `10220010` Fajris Zahrotun Nihayah
 + `31-jul 0800` [`CvV80B_vERg`](https://www.instagram.com/p/CvV80B_vERg/) [`qpu2c`](https://osf.io/qpu2c/) `10219016` Diana Ibrahim
