@@ -19,6 +19,13 @@ Jul-Dec 2023
 + `08-tue 0800` `10219034` Clarisa Andrienny Natasya
 + `07-mon 1530` `20220011` Deni Ramdani
 
+
+### today
++ `07-aug 1300` []() [`nb2ga`](https://osf.io/nb2ga/) `20921007` Amalia Shifa Aldila
++ `07-aug 1000` []() [`bjqs8`](https://osf.io/bjqs8/) `20220313` Alfin Nurul Afifah
++ `07-aug 0900` []() [`z7b4g`](https://osf.io/z7b4g/) `20221002` R. Silvia Putri Raharja Effendi
+
+
 ## defense
 + `04-fri 0900` [`CvgY2p1PV8d`](https://www.instagram.com/p/CvgY2p1PV8d/) [`yfnsh`](https://osf.io/yfnsh/) `20920007` Alya Mutiara Firdausyi &bull;
 + `01-aug 1530` [`CvZUxR3PgB9`](https://www.instagram.com/p/CvZUxR3PgB9/) [`g7qau`](https://osf.io/g7qau/) `10219096` Dharma Prasetya Permana
