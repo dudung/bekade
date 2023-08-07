@@ -18,9 +18,9 @@ Jul-Dec 2023
 + `08-tue 1000` []() [`ngyuq`](https://osf.io/ngyuq/) `10218101` Khalda Alifia
 + `08-tue 0800` `10219034` Clarisa Andrienny Natasya
 + `07-mon 1530` `20220011` Deni Ramdani
-+ `04-fri 0900` `20920007` Alya Mutiara Firdausyi &bull;
 
 ## defense
++ `04-fri 0900` [`CvgY2p1PV8d`](https://www.instagram.com/p/CvgY2p1PV8d/) [`yfnsh`](https://osf.io/yfnsh/) `20920007` Alya Mutiara Firdausyi &bull;
 + `01-aug 1530` [`CvZUxR3PgB9`](https://www.instagram.com/p/CvZUxR3PgB9/) [`g7qau`](https://osf.io/g7qau/) `10219096` Dharma Prasetya Permana
 + `01-aug 1300` [`CvZDJAIvK6J`](https://www.instagram.com/p/CvZDJAIvK6J/) [`krbcj`](https://osf.io/krbcj/) `10217055` Hakim Al Ghifari
 + `01-aug 0830` [`CvYojoGPr5V`](https://www.instagram.com/p/CvYojoGPr5V/) [`tbz9p`](https://osf.io/tbz9p/) `30218002` Dinan Adiwijayakusuma
