@@ -17,13 +17,13 @@ Jul-Dec 2023
 ### to-defense
 + `08-tue 1000` []() [`ngyuq`](https://osf.io/ngyuq/) `10218101` Khalda Alifia
 + `08-tue 0800` `10219034` Clarisa Andrienny Natasya
-+ `07-mon 1530` `20220011` Deni Ramdani
 
 
 ### today
++ `07-mon 1530` []() []() `20220011` Deni Ramdani
 + `07-aug 1300` []() [`nb2ga`](https://osf.io/nb2ga/) `20921007` Amalia Shifa Aldila
-+ `07-aug 1000` []() [`bjqs8`](https://osf.io/bjqs8/) `20220313` Alfin Nurul Afifah
-+ `07-aug 0900` []() [`z7b4g`](https://osf.io/z7b4g/) `20221002` R. Silvia Putri Raharja Effendi
++ `07-aug 1000` [`CvoMVYbvgN8`](https://www.instagram.com/p/CvoMVYbvgN8/) [`bjqs8`](https://osf.io/bjqs8/) `20220313` Alfin Nurul Afifah
++ `07-aug 0900` [`CvoEpFov0Ly`](https://www.instagram.com/p/CvoEpFov0Ly/) [`z7b4g`](https://osf.io/z7b4g/) `20221002` R. Silvia Putri Raharja Effendi
 
 
 ## defense
