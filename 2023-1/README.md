@@ -19,7 +19,7 @@ Jul-Dec 2023
 
 ### today
 + `08-tue 1000` []() [`ngyuq`](https://osf.io/ngyuq/) `10218101` Khalda Alifia
-+ `08-tue 0800` []() [`bhcwt`](https://osf.io/bhcwt/) `10219034` Clarisa Andrienny Natasya
++ `08-tue 0800` [`CvqiBqpPg_P`](https://www.instagram.com/p/CvqiBqpPg_P/) [`bhcwt`](https://osf.io/bhcwt/) `10219034` Clarisa Andrienny Natasya
 
 
 ## defense
