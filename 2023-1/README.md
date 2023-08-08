@@ -15,7 +15,7 @@ Jul-Dec 2023
 
 
 ### to-defense
-+ ..
++ `15-tue 0900` []() [`avxks`](https://osf.io/avxks/) Mohammad Fadli Alifvian
 
 ### today
 + ..
