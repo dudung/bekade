@@ -18,11 +18,11 @@ Jul-Dec 2023
 + ..
 
 ### today
-+ `08-tue 1000` []() [`ngyuq`](https://osf.io/ngyuq/) `10218101` Khalda Alifia
-+ `08-tue 0800` [`CvqiBqpPg_P`](https://www.instagram.com/p/CvqiBqpPg_P/) [`bhcwt`](https://osf.io/bhcwt/) `10219034` Clarisa Andrienny Natasya
-
++ ..
 
 ## defense
++ `08-tue 1000` [`Cvqxfv_PR3M`](https://www.instagram.com/p/Cvqxfv_PR3M/) [`ngyuq`](https://osf.io/ngyuq/) `10218101` Khalda Alifia
++ `08-tue 0800` [`CvqiBqpPg_P`](https://www.instagram.com/p/CvqiBqpPg_P/) [`bhcwt`](https://osf.io/bhcwt/) `10219034` Clarisa Andrienny Natasya
 + `07-mon 1530` [`CvoyotTvO1F`](https://www.instagram.com/p/CvoyotTvO1F/) [`z2w6e`](https://osf.io/z2w6e/) `20220011` Deni Ramdani
 + `07-mon 1400` [`Cvol-SgPRvo`](https://www.instagram.com/p/Cvol-SgPRvo/) [`vy4ec`](https://osf.io/vy4ec/) `20921005` Alberth Roy Kota
 + `07-aug 1300` [`Cvof7QjPs-u`](https://www.instagram.com/p/Cvof7QjPs-u/) [`nb2ga`](https://osf.io/nb2ga/) `20921007` Amalia Shifa Aldila
