@@ -9,7 +9,7 @@ Jul-Dec 2023
 + `NT6094-01` `2-1.0` `G` [`nt6094-01-2023-1`](https://github.com/dudung/nt6094-01-2023-1)
 + `NT8098-01` `3-1.5` `G` [`nt8098-01-2023-1`](https://github.com/dudung/nt8098-01-2023-1)
 + `RN6068-01` `3-1.0` `G` [`rn6068-01-2023-1`](https://github.com/dudung/rn6068-01-2023-1)
-+ `SK6091-01` `3-1.0` `G` []()
++ `SK6091-01` `3-1.0` `G` [`sk6091-01-2023-1`](https://github.com/dudung/sk6091-01-2023-1)
 
 ![](courses.png)
 
