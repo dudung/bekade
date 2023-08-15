@@ -18,7 +18,7 @@ Jul-Dec 2023
 + ..
 
 ### today
-+ ..
++ `15-tue 0900` []() [`avxks`](https://osf.io/avxks/) Mohammad Fadli Alifvian
 
 ## defense
 + `15-tue 0900` [`Cv8rVRlPdMH`](https://www.instagram.com/p/Cv8rVRlPdMH/) [`avxks`](https://osf.io/avxks/) `10218080` Mohammad Fadli Alifvian
