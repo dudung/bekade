@@ -15,12 +15,13 @@ Jul-Dec 2023
 
 
 ### to-defense
-+ `15-tue 0900` []() [`avxks`](https://osf.io/avxks/) Mohammad Fadli Alifvian
++ ..
 
 ### today
 + ..
 
 ## defense
++ `15-tue 0900` [`Cv8rVRlPdMH`](https://www.instagram.com/p/Cv8rVRlPdMH/) [`avxks`](https://osf.io/avxks/) `10218080` Mohammad Fadli Alifvian
 + `08-tue 1000` [`Cvqxfv_PR3M`](https://www.instagram.com/p/Cvqxfv_PR3M/) [`ngyuq`](https://osf.io/ngyuq/) `10218101` Khalda Alifia
 + `08-tue 0800` [`CvqiBqpPg_P`](https://www.instagram.com/p/CvqiBqpPg_P/) [`bhcwt`](https://osf.io/bhcwt/) `10219034` Clarisa Andrienny Natasya
 + `07-mon 1530` [`CvoyotTvO1F`](https://www.instagram.com/p/CvoyotTvO1F/) [`z2w6e`](https://osf.io/z2w6e/) `20220011` Deni Ramdani
