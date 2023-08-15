@@ -15,10 +15,10 @@ Jul-Dec 2023
 
 
 ### to-defense
-+ `15-tue 0900` []() [`avxks`](https://osf.io/avxks/) Mohammad Fadli Alifvian
++ ..
 
 ### today
-+ ..
++ `15-tue 0900` []() [`avxks`](https://osf.io/avxks/) Mohammad Fadli Alifvian
 
 ## defense
 + `08-tue 1000` [`Cvqxfv_PR3M`](https://www.instagram.com/p/Cvqxfv_PR3M/) [`ngyuq`](https://osf.io/ngyuq/) `10218101` Khalda Alifia
