@@ -11,7 +11,7 @@ Jul-Dec 2023
 + `RN6068-01` `3-1.0` `G` [`rn6068-01-2023-1`](https://github.com/dudung/rn6068-01-2023-1)
 + `SK6091-01` `3-1.0` `G` [`sk6091-01-2023-1`](https://github.com/dudung/sk6091-01-2023-1)
 
-![](courses.png)
+![](courses_v2.png)
 
 
 ### to-defense
