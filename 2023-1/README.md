@@ -18,8 +18,8 @@ Jul-Dec 2023
 + ..
 
 ### today
-+ ..
-
++ `01-sep 1600` []() []() `10219012` Faiz Aulia Rahman
++ `28-mon 1600` []() [`5xfk7`](https://osf.io/5xfk7/) `20220015` Retno Dewi Purnawati.
 
 ## defense
 + `15-tue 0900` [`Cv8rVRlPdMH`](https://www.instagram.com/p/Cv8rVRlPdMH/) [`avxks`](https://osf.io/avxks/) `10218080` Mohammad Fadli Alifvian
