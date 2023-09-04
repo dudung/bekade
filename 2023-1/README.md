@@ -18,19 +18,20 @@ Jul-Dec 2023
 + ..
 
 ### today
-+ `01-sep 1600` []() []() `10219012` Faiz Aulia Rahman
-+ `28-mon 1600` []() [`5xfk7`](https://osf.io/5xfk7/) `20220015` Retno Dewi Purnawati.
++ `04-sep 1230` []() [`zyc34`](https://osf.io/zyc34/) `10219074` Muhammad Farhan
 
 ## defense
-+ `15-tue 0900` [`Cv8rVRlPdMH`](https://www.instagram.com/p/Cv8rVRlPdMH/) [`avxks`](https://osf.io/avxks/) `10218080` Mohammad Fadli Alifvian
-+ `08-tue 1000` [`Cvqxfv_PR3M`](https://www.instagram.com/p/Cvqxfv_PR3M/) [`ngyuq`](https://osf.io/ngyuq/) `10218101` Khalda Alifia
-+ `08-tue 0800` [`CvqiBqpPg_P`](https://www.instagram.com/p/CvqiBqpPg_P/) [`bhcwt`](https://osf.io/bhcwt/) `10219034` Clarisa Andrienny Natasya
-+ `07-mon 1530` [`CvoyotTvO1F`](https://www.instagram.com/p/CvoyotTvO1F/) [`z2w6e`](https://osf.io/z2w6e/) `20220011` Deni Ramdani
-+ `07-mon 1400` [`Cvol-SgPRvo`](https://www.instagram.com/p/Cvol-SgPRvo/) [`vy4ec`](https://osf.io/vy4ec/) `20921005` Alberth Roy Kota
++ `01-sep 1600` [`CwpMBlmPd6T`](https://www.instagram.com/p/CwpMBlmPd6T/) [`z3qtd`](https://osf.io/z3qtd/) `10219012` Faiz Aulia Rahman
++ `28-aug 1600` [`Cwe6GwKPA2d`](https://www.instagram.com/p/Cwe6GwKPA2d/) [`5xfk7`](https://osf.io/5xfk7/) `20220015` Retno Dewi Purnawati.
++ `15-aug 0900` [`Cv8rVRlPdMH`](https://www.instagram.com/p/Cv8rVRlPdMH/) [`avxks`](https://osf.io/avxks/) `10218080` Mohammad Fadli Alifvian
++ `08-aug 1000` [`Cvqxfv_PR3M`](https://www.instagram.com/p/Cvqxfv_PR3M/) [`ngyuq`](https://osf.io/ngyuq/) `10218101` Khalda Alifia
++ `08-aug 0800` [`CvqiBqpPg_P`](https://www.instagram.com/p/CvqiBqpPg_P/) [`bhcwt`](https://osf.io/bhcwt/) `10219034` Clarisa Andrienny Natasya
++ `07-aug 1530` [`CvoyotTvO1F`](https://www.instagram.com/p/CvoyotTvO1F/) [`z2w6e`](https://osf.io/z2w6e/) `20220011` Deni Ramdani
++ `07-aug 1400` [`Cvol-SgPRvo`](https://www.instagram.com/p/Cvol-SgPRvo/) [`vy4ec`](https://osf.io/vy4ec/) `20921005` Alberth Roy Kota
 + `07-aug 1300` [`Cvof7QjPs-u`](https://www.instagram.com/p/Cvof7QjPs-u/) [`nb2ga`](https://osf.io/nb2ga/) `20921007` Amalia Shifa Aldila
 + `07-aug 1000` [`CvoMVYbvgN8`](https://www.instagram.com/p/CvoMVYbvgN8/) [`bjqs8`](https://osf.io/bjqs8/) `20220313` Alfin Nurul Afifah
 + `07-aug 0900` [`CvoEpFov0Ly`](https://www.instagram.com/p/CvoEpFov0Ly/) [`z7b4g`](https://osf.io/z7b4g/) `20221002` Raden Silvia Putri Raharja Effendi
-+ `04-fri 0900` [`CvgY2p1PV8d`](https://www.instagram.com/p/CvgY2p1PV8d/) [`yfnsh`](https://osf.io/yfnsh/) `20920007` Alya Mutiara Firdausyi &bull;
++ `04-aug 0900` [`CvgY2p1PV8d`](https://www.instagram.com/p/CvgY2p1PV8d/) [`yfnsh`](https://osf.io/yfnsh/) `20920007` Alya Mutiara Firdausyi &bull;
 + `01-aug 1530` [`CvZUxR3PgB9`](https://www.instagram.com/p/CvZUxR3PgB9/) [`g7qau`](https://osf.io/g7qau/) `10219096` Dharma Prasetya Permana
 + `01-aug 1300` [`CvZDJAIvK6J`](https://www.instagram.com/p/CvZDJAIvK6J/) [`krbcj`](https://osf.io/krbcj/) `10217055` Hakim Al Ghifari
 + `01-aug 0830` [`CvYojoGPr5V`](https://www.instagram.com/p/CvYojoGPr5V/) [`tbz9p`](https://osf.io/tbz9p/) `30218002` Dinan Adiwijayakusuma
