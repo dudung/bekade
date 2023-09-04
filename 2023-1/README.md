@@ -18,9 +18,10 @@ Jul-Dec 2023
 + ..
 
 ### today
-+ `04-sep 1230` []() [`zyc34`](https://osf.io/zyc34/) `10219074` Muhammad Farhan
++ ..
 
 ## defense
++ `04-sep 1230` [`CwwiZOmvuqo`](https://www.instagram.com/p/CwwiZOmvuqo/) [`zyc34`](https://osf.io/zyc34/) `10219074` Muhammad Farhan
 + `01-sep 1600` [`CwpMBlmPd6T`](https://www.instagram.com/p/CwpMBlmPd6T/) [`z3qtd`](https://osf.io/z3qtd/) `10219012` Faiz Aulia Rahman
 + `28-aug 1600` [`Cwe6GwKPA2d`](https://www.instagram.com/p/Cwe6GwKPA2d/) [`5xfk7`](https://osf.io/5xfk7/) `20220015` Retno Dewi Purnawati.
 + `15-aug 0900` [`Cv8rVRlPdMH`](https://www.instagram.com/p/Cv8rVRlPdMH/) [`avxks`](https://osf.io/avxks/) `10218080` Mohammad Fadli Alifvian
