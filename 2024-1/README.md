@@ -4,6 +4,7 @@ Aug-Des 2024
 
 ## 20-feb-2025
 + 1801
++ ![](bkd_daftar_20250220_1801.png)
 + ![](bkd_simpan_permanen_20250220_1801.png)
 
 ## 19-feb-2025
